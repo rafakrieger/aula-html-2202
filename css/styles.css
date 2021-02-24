@@ -7,7 +7,7 @@
 
 #geral {
     width: 1000px;
-    height: 750px;
+    height: 900px;
     background-color: #ccc;
     margin: 0 auto;
 }
@@ -26,11 +26,6 @@
 
 .paragraph{
     padding: 10px 15px;
-}
-
-.img-left {
-    float: left;
-    padding: 15px;
 }
 
 .banner {
@@ -52,4 +47,30 @@
 
 #blue {
     background: blue;
+}
+
+.card {
+    margin-top: 20px;
+    width: 33%;
+    height: 250px; 
+    display: inline-block;   
+}
+
+.img-right {
+    width: 150px;
+    float: right;
+    padding: 15px;
+}
+
+.img-center {   
+    width: 600px;    
+    padding: 40px;
+    margin: 0 auto;
+    display: block;
+}
+
+.img-left {
+    width: 150px;
+    float: left;
+    padding: 15px;
 }
