@@ -1,0 +1,55 @@
+
+* {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+#geral {
+    width: 1000px;
+    height: 750px;
+    background-color: #ccc;
+    margin: 0 auto;
+}
+
+.barra-azul {
+    height: 100px;
+    background:blue;
+}
+
+.barra-azul p {
+    color: #fff;
+    text-align: center;
+    font-size: 56px;
+    padding-top: 15px;
+}
+
+.paragraph{
+    padding: 10px 15px;
+}
+
+.img-left {
+    float: left;
+    padding: 15px;
+}
+
+.banner {
+    margin-top: 20px;
+    width: 33%;
+    height: 250px; 
+    background: #ccffcc;
+    display: inline-block;
+    
+}
+
+#green {
+    background: green;    
+}
+
+#yellow {
+    background: yellow;
+}
+
+#blue {
+    background: blue;
+}
